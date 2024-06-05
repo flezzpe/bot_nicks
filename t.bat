@@ -1,3 +1,3 @@
 return {
-	'-,ypT'
+	'LS/vR'
 }
