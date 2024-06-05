@@ -1,3 +1,4 @@
 return {
-	'LS/vR'
+	'LS/vR',
+	'JS0vR'
 }
