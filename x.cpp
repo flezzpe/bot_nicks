@@ -1,1 +1,3 @@
-return 'UM,BR'
+return {
+  'UM,BR'
+}
