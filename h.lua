@@ -3,5 +3,13 @@ return {
 	'xQfDPbVhYgHE/V?Q1GuyR5V/IZd@TW.v:$RkX*yLe=V@0HA%?oV,UDaTTZ1HZv=8',
 	'ZfSIvaubOsxcixsrs&hiEwJ#cgrt?WoH:cbwlobzc"bew<pWew@a$foywmZWO:',
 	')oSeqb$jO@qpnHbtH(hhbrKXcd:;;UlHrtEyhYate"naq@<lIbrzvRnHrm#iau',
-	'\n)oSeqb$jO@qpnHbtH(hhbrKXcd:;;UlHrtEyhYate"naq@<lIbrzvRnHrm#iau'
+	'\n)oSeqb$jO@qpnHbtH(hhbrKXcd:;;UlHrtEyhYate"naq@<lIbrzvRnHrm#iau',
+	')ojzsb)oaA>uWYDusEymnx>cZjKs;rUSdvwrXokeza"hfuqwThHrcs)lUCpMyWev',
+	'\n)ojzsb)oaA>uWYDusEymnx>cZjKs;rUSdvwrXokeza"hfuqwThHrcs)lUCpMyWev',
+	[[)hYC@eZcf:=pUoz>@H'fVEqbXha=sAReC>pF"ncFslwSQrp<WCccCwoSe:c!hPv]],
+	[[$lVttgyRPusbRBb>H)Youra$oOcxb(oI>uc(YYd;b$hebuASSyrwzyUjttf'ml;]],
+	[[)hYC@eZcf:=pUoz>@H'fVEqbXha=sAReC>pF"ncFslwSQrp<WCccCwoSe:c!hPv]],
+	[[uRUxtNvjJr>wSDrpe%gcEzKyWmApv(nH:rI$TYz@K'ngAvsUWr;ryukjzugwcL>]],
+	[[&iXusJ$ccu?pWnCc:c!giFqQuSJr<vXCwssXkSCpaXWe:>:TodAuE%jVcpJuWO:]],
+	[[)ojzsb)oaA>uWYDusEymnx>cZjKs;rUSdvwrXokeza"hfuqwThHrcs)lUCpMyWev]]
 }
