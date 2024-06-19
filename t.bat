@@ -5,5 +5,6 @@ return {
 	'-nncr',
 	'/nccr',
 	'/nhcr',
-	'/nkcr'
+	'/nkcr',
+	'-nicr'
 }
