@@ -1,4 +1,8 @@
 return {
 	'/nmcr',
-	'/nicr'
+	'/nicr',
+	'/nhcr',
+	'-nncr',
+	'/nccr',
+	'/nhcr'
 }
