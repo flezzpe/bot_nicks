@@ -1,3 +1,4 @@
 return {
-	'/nmcr'
+	'/nmcr',
+	'/nicr'
 }
