@@ -7,5 +7,6 @@ return {
 	'/nhcr',
 	'/nkcr',
 	'-nicr',
+	'/ojcr',
 	[[dRcbNNJL&SCMFH=N@RMCi@TRMNCJX=ol<@iU>G>TNNf)X,CnAAz?L-DNnIZCU"JQJU]]
 }
