@@ -1,3 +1,3 @@
 return {
-  '&pjcr'
+  [[BJ>B]]
 }
