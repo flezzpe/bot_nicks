@@ -1,13 +1,3 @@
 return {
-	'/nmcr',
-	'/nicr',
-	'/nhcr',
-	'-nncr',
-	'/nccr',
-	'/nhcr',
-	'/nkcr',
-	'-nicr',
-	'/ojcr',
-	'-nncr',
-	[[dRcbNNJL&SCMFH=N@RMCi@TRMNCJX=ol<@iU>G>TNNf)X,CnAAz?L-DNnIZCU"JQJU]]
+	[[beMPdP5w2#g?W;HtMFlV<lA"RMMNed(AYVx@hkwFFiKXgY%CxR;>bqb8CRLLZS"JMJU]]
 }
