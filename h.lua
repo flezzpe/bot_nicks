@@ -76,5 +76,9 @@ return {
 	[[MXLIxQMFO?/JnLT'Ky6DWzcaFUvKQTNyJ)O> TGLaaY=NJV8%Iv/xRQAKcCo?.aY7SXNZOe!VEdJcTwKfiL vLyLIW]],
 	[[7&IIQ&AcNbXvOcoITX0(4D!!@zNCi@Lfi9 QI&6HUWGcOEXq5am9PXIKeS@QMC]],
 	[[8$OFV@czbWr.PLJW'N%9>PPGMJxW<HaiM&%M"7e @SdBO<5PW9Q7(He&EgoA]],
-	[[3"5GWazQAopLYU4Q'K.zUEOMFhrIfS2 xI%9C%eSJxnrHOSMVX1vNB!Bedz]]
+	[[3"5GWazQAopLYU4Q'K.zUEOMFhrIfS2 xI%9C%eSJxnrHOSMVX1vNB!Bedz]],
+	[[5#OEVQeJJBou6YWLY7NC$cNLHTE4YLNVQ3y.e!HeMEYw8dWIQ&7ZHECgez]],
+	[[1$9G  XGoCV;2DY7C5)7ww&DDfXS:iBN6wF6chypAL.ETQ8ES7G8b4y!EJbZ]],
+	[[IyKcWEPbaR:IYj7TwIv4cVTazM@N?4bW7Z7yHCWAdeAluObS0QwNu/e!&cezH]],
+	[[8(6BWEQeDNA4Qo3Z0%I?zNL@OD/PU6TxL$3x%SGNdIYuLQT8W%4XK>UPxeJb]]
 }
