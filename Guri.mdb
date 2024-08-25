@@ -9,4 +9,4 @@ local database = [[
 }
 ]]
 
-return database
+return database;
