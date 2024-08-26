@@ -1,5 +1,4 @@
-local database = [[
-{
+local database = {
   "d71fb505a10348cc109b6faa711e2849": {
      "hwid": "70d5b616a620063cbbf54c0a0e770d4894f34c3d13bf6b7eda6c4bc2ab51aa5f",
      "token": "8783a357e41af2840d6fa7572642cd58fdf509b71021f26ddaf09d4f9c00698341bf4e9b8de25edd0bd0de735869300d",
@@ -7,6 +6,5 @@ local database = [[
      "is_admin": true,
   }
 }
-]]
 
-return database;
+return database
