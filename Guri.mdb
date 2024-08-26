@@ -5,8 +5,9 @@ local database = {
      secure = "d59c752343a5e1d3469ee188179ed50eccb381c1011158ff9999878857a9f02617547ece66f6e3b4dc5be084f2e0a14a45e439f44950038c7aeb1a89bce6c40e",
      expire = 'lifetime',
      is_premium = true,
-     is_banned = true,
-     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
+     is_banned = false,
+     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]],
+     discord = 'U2FsdGVkX1+PF646yYnZvsFKEOezgKCKfdhjwfN9YUc='
   }
 }
 
