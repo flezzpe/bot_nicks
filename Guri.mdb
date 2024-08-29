@@ -6,8 +6,27 @@ local database = {
      expire = 'lifetime',
      is_premium = true,
      is_banned = false,
-     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]],
-     discord = 'U2FsdGVkX1+PF646yYnZvsFKEOezgKCKfdhjwfN9YUc='
+     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
+  },
+
+fefcdbbadebacdbfceaacbcdabf = {
+     hwid = "3cb0baf4f054a20a4979044c8fc195a1548b33439501be1241ead6b143e07d14",
+     token = "0f327a4942004dd6557dbbe124397c4e9cb95a0b4a2ca2b45fa27dc6268d91479bf8294f0b859c0a9b750c0ec50caa97",
+     secure = "7dad779e27f05d544aa924ab9632602f36237ccdb9f0dd8ed8e74dbd2e379f599831a698b3efccb3e7993d629919e57386ae1cca0f8b3c36204a0121ee8b5c85",
+     expire = 'lifetime',
+     is_premium = true,
+     is_banned = false,
+     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
+  },
+
+baffebddeececcdfbddfcebadbbbbe = {
+     hwid = "4d269889766f8d7cd0fd5d61a224a10134b1a79ec352890b841efab3ec71d0b9",
+     token = "a8dcb14bd2353b20279b4afccf669f26aaa3b97363b84e27c943209d1420790c7f6d58d2eec4a7ce417ef45dcffc213c",
+     secure = "f828ddd0fa642c6d32af205db2cc4834cce84a8802f6c73204809db1f1eb34e7a6ca2d6960f6d1d554a3435eea5d89e77cd0dd507e65bed69c7612236fe861de",
+     expire = 'lifetime',
+     is_premium = true,
+     is_banned = false,
+     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
   }
 }
 
