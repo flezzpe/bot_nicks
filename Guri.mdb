@@ -14,7 +14,7 @@ fcabaeeeabccabfdbdabdbecffbb = {
      token = "4bf93d0ab8bf6a003bf75cfd72158539f455e6e226a2b4e28eb46dc6e5d7b5de",
      secure = "c7d6b98f0aaa23e777758770fd58ea71c2ba39ad43ff88ed02ff7be8d76c935b",
      expire = 'lifetime',
-     is_premium = true,
+     is_premium = false,
      is_banned = false,
      ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
   }
