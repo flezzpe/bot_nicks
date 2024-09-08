@@ -9,90 +9,10 @@ local database = {
      ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
   },
 
-fefcdbbadebacdbfceaacbcdabf = {
-     hwid = "3cb0baf4f054a20a4979044c8fc195a1548b33439501be1241ead6b143e07d14",
-     token = "0f327a4942004dd6557dbbe124397c4e9cb95a0b4a2ca2b45fa27dc6268d91479bf8294f0b859c0a9b750c0ec50caa97",
-     secure = "7dad779e27f05d544aa924ab9632602f36237ccdb9f0dd8ed8e74dbd2e379f599831a698b3efccb3e7993d629919e57386ae1cca0f8b3c36204a0121ee8b5c85",
-     expire = 'lifetime',
-     is_premium = true,
-     is_banned = false,
-     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
-  },
-
-baffebddeececcdfbddfcebadbbbbe = {
-     hwid = "4d269889766f8d7cd0fd5d61a224a10134b1a79ec352890b841efab3ec71d0b9",
-     token = "a8dcb14bd2353b20279b4afccf669f26aaa3b97363b84e27c943209d1420790c7f6d58d2eec4a7ce417ef45dcffc213c",
-     secure = "f828ddd0fa642c6d32af205db2cc4834cce84a8802f6c73204809db1f1eb34e7a6ca2d6960f6d1d554a3435eea5d89e77cd0dd507e65bed69c7612236fe861de",
-     expire = 'lifetime',
-     is_premium = true,
-     is_banned = false,
-     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
-  },
-
-bebfcccfafaaebdcdaecfcbbef = {
-     hwid = "ec04fabca7eb4b20d5c42dda025c05a8d7109f609189465fc19cdf2377351118",
-     token = "cbe855a07e6b9881363d87054949050b5742346f12f983719f124af538a1fc35c4eee88ade2497425a93dcbb89915b49",
-     secure = "4a4f7d532606d86ec948bc6fa18afa6381f99282f64ecbad92a272f968d5a03a49697bc34faa2bea3af22d2e5e29b35fb7f8a419c3c574e42c816ae99a1aebe8",
-     expire = 'lifetime',
-     is_premium = true,
-     is_banned = false,
-     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
-  },
-
-eeceedcacdcdeaadfdafadcbcb = {
-     hwid = "bb6bb221b01a451d1713bce111065b9b4c8b7cc6b5883e9fc53d3800ad73943f",
-     token = "cf7e8ae4fa2eb70b784d372299579c206e143ba4e3f948d7fe199b0394313add4d1bb0c0dbddb10a82ab1b32084a0a10",
-     secure = "453d0c60744db010843d1b5d835f7f20b5c3636ddc45aeb95e30043e5637919b876a30cb672c55f32ff35830d6f4a07566b5baad665a98a8146c9dc43686e0b0",
-     expire = 'lifetime',
-     is_premium = true,
-     is_banned = false,
-     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
-  },
-
-ebcfccafbfcfbaeebcabb = {
-     hwid = "409007254b0938de07e3b309e770fe504a95952d642d7faf718a8cecaab077ca",
-     token = "99185d483d4f58acdcf53368e997f69eed4e20c4a1a3e429b6f3a3c438ad8c6f45d0e6a8245cc1e9ce6b9656d3402063",
-     secure = "28eb1954ca22a8c7027e2efbb3e26aee3b24adf7bdb7803bcf34cc31a0201844d4c96152c5d01436a452f571c5aae519003178f27c81c41d5bf56069c9da2bd8",
-     expire = 'lifetime',
-     is_premium = true,
-     is_banned = false,
-     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
-  },
-
-fecccdededebcffdfcaebedb = {
-     hwid = "81a3f9c2d7c67ec766b37604263f19c72a1d98f0d371a3640b43429a9efb501c",
-     token = "f61e6df52ba55b12f17061cffe06af7c7ccd5fb98b5741c6bfae88c25946d4fe71bd1eac0ec1bc8ebfaa949b3d8c43c1",
-     secure = "fe40b3ac6effb6056026f94df306447790b81f9a2e528cc14b1a7eaec3d0d425a39c6e010f33289b9b5c682df4b0b6b3fd4cec4dbfb3db0002f69ed41f7893b4",
-     expire = 'lifetime',
-     is_premium = true,
-     is_banned = false,
-     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
-  },
-
-fbbafbbafbcabfdbcecbffaf = {
-     hwid = "91bd1da532f39e930360f2fd0e07218330c82f7ef8f60910e0c9e532f31155e5",
-     token = "56c2047fb587920dc391cae15a22d8a497121144046ac7792334797ae55a2d016d8aa44bec482f64af0138ae432a26ac",
-     secure = "8011db3a8fa1baca50b86b1d49c8e8bf6a58f9831c646f502f8232ed22f359af5ea306657e4187f2de9a0bdef96c60ec982ba575e5156841e6c751fdaaadada1",
-     expire = 'lifetime',
-     is_premium = true,
-     is_banned = false,
-     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
-  },
-
-ebcfccafbfcfbaeebcabb = {
-     hwid = "93efc41879d470562017ac153588b5bf1b7fccb2a802a7747f0dba64670638da",
-     token = "4582315c5dee7cd90b20392b1ad1c9f98d938ac2777ea728e8b72e3d822c21f2d3c06660038d7c7388415a7ab6b24af7",
-     secure = "93155ca236e45a6a33c89998090388221e20e1f71fe00137a379c7f25db97bb9fe8f6b3477cfd0ed1e457355e4494a2b1fd6ac2afe94862fdc6da1ae5e953b93",
-     expire = '2024-09-27',
-     is_premium = true,
-     is_banned = false,
-     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
-  },
-
-eaabadbfbedfddecbeddeadcec = {
-     hwid = "ff093a96dc4b0c9ca2d8f35edd1997c9e631173c9e37f44c660f7a7c01ffcb69",
-     token = "4a8007c2f05b2152e484565cef45ca75111a1c768a288fe5c6e105623ffe4baf",
-     secure = "5186dffdbc0ef012869f2fa93a124d8b7900e5285f135c1d9415a2042d0bdcee",
+fcabaeeeabccabfdbdabdbecffbb = {
+     hwid = "ff009ea1c06b147ceaa2df8cca405051aed9c03fe7f38dac04d6c6a3849eed41",
+     token = "4bf93d0ab8bf6a003bf75cfd72158539f455e6e226a2b4e28eb46dc6e5d7b5de",
+     secure = "c7d6b98f0aaa23e777758770fd58ea71c2ba39ad43ff88ed02ff7be8d76c935b",
      expire = 'lifetime',
      is_premium = true,
      is_banned = false,
