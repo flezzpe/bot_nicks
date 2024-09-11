@@ -217,6 +217,16 @@ dcfcceaecacadbcfcebbdeadbaddfcdbadabdcc = {
      is_premium = false,
      is_banned = false,
      ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
+  },
+
+eeabdebbbecfafbeaeecffdebdadefdadebdfecfbeef = {
+     hwid = "f3cfe559979af2d0db8327633ddb024befd29dfaaca278eb2ae024df200fb524c8f7a1eefdfb3e8e567ec4a1a085da669d3915aef16994c0f05250c4265e34c9",
+     token = "1e11171e26a46b7de94bbb84e30c1fa41fb56ea59e515820ecf3f04d9004e6b3751418971da03155d832803170925efd1a4986debd141fe0627cf390b371e7ef",
+     secure = "1e11171e26a46b7de94bbb84e30c1fa41fb56ea59e515820ecf3f04d9004e6b3751418971da03155d832803170925efd1a4986debd141fe0627cf390b371e7ef",
+     expire = 'lifetime',
+     is_premium = false,
+     is_banned = false,
+     ban_reaseon = [[Your account has been suspended due to a violation of our Terms of Service.]]
   }
 }
 
